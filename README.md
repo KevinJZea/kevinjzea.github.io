@@ -1,2 +1,3 @@
-# kevinjzea.github.io
+# kevinjzea.com
+
 Repository of kevinjzea.com.

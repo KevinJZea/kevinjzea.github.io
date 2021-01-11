@@ -40,6 +40,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+/node_modules
+/.pnp
+.pnp.js
+/.vscode
 
 # TypeScript v1 declaration files
 typings/
@@ -67,6 +71,19 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # dotenv environment variables file
 .env
