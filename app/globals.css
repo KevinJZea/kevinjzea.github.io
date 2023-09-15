@@ -25,3 +25,10 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+a {
+  @apply
+    text-gray-600
+    hover:text-gray-800
+    hover:underline
+}
