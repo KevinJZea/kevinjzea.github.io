@@ -3,7 +3,7 @@ import { CustomSocialIcon } from './CustomSocialIcon';
 
 const Footer = () => {
   return (
-    <footer className="p-6">
+    <footer className="py-6">
       <div className="flex gap-3 flex-wrap justify-center items-center">
         <CustomSocialIcon
           title="LinkedIn"
