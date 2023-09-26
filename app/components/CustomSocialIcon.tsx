@@ -6,6 +6,7 @@ const CustomSocialIcon = (props: SocialIconProps) => {
     <span className="rounded-full border-dark-white border hover:bg-light-black">
       <SocialIcon
         bgColor="transparent"
+        target='_blank'
         {...props}
       />
     </span>
