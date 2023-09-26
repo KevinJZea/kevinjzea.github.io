@@ -26,6 +26,10 @@ const Footer = () => {
           title="YouTube"
           url="https://youtube.com/@kevinjzea"
         />
+        <CustomSocialIcon
+          title="Twitch"
+          url="https://twitch.tv/kevinjzea"
+        />
         <CustomSocialIcon url="https://platzi.com/p/kevinjzea" />
       </div>
     </footer>
